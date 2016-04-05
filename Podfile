@@ -7,7 +7,6 @@ target 'Flicker Search' do
 
 pod 'Alamofire', '~> 3.0'
 pod 'AlamofireImage', '~> 2.0'
-pod 'Canvas', '~> 0.1'
 
 end
 
